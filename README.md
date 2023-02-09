@@ -94,8 +94,10 @@
   <img src="https://streak-stats.demolab.com/?user=0xN1ck" height="150">  
 </div>
 <div align="center">
-  <img src="https://metrics.lecoq.io/0xN1ck">    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xN1ck" alt="Top Langs" align="center" height="315">
+  <img src="https://metrics.lecoq.io/0xN1ck" align="center" height="315">    
 </div>
+
 
 <br/>  
 
