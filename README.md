@@ -89,7 +89,7 @@
 ## 🧮 Github Stats  
 
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=0xN1ck&show_icons=true&theme=default#gh-light-mode-only">
   <img src="https://streak-stats.demolab.com/?user=0xN1ck">  
 </div>
@@ -107,7 +107,7 @@
 
 ## 😂 For fun
 
-<div align="left">
+<div align="center">
   <img src="https://github.com/0xN1ck/0xN1ck/blob/output/github-contribution-grid-snake.gif"> 
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
