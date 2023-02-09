@@ -90,8 +90,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xN1ck&show_icons=true&theme=default&card_width=400px#gh-light-mode-only">
-  <img src="https://streak-stats.demolab.com/?user=0xN1ck&card_width=400px">  
+  <img src="https://github-readme-stats.vercel.app/api?username=0xN1ck&card_width=300&show_icons=true&theme=default#gh-light-mode-only">
+  <img src="https://streak-stats.demolab.com/?user=0xN1ck&card_width=300">  
 </div>
 <div align="center">
   <img src="https://metrics.lecoq.io/0xN1ck">    
