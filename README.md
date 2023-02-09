@@ -89,9 +89,9 @@
 ## 🧮 Github Stats  
 
 
-<div class="wrapper" align="center">
-  <img class="small" src="https://github-readme-stats.vercel.app/api?username=0xN1ck&show_icons=true&theme=default#gh-light-mode-only">
-  <img class="small" src="https://streak-stats.demolab.com/?user=0xN1ck">  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xN1ck&show_icons=true&theme=default&card_width=400px#gh-light-mode-only">
+  <img src="https://streak-stats.demolab.com/?user=0xN1ck&card_width=400px">  
 </div>
 <div align="center">
   <img src="https://metrics.lecoq.io/0xN1ck">    
@@ -155,12 +155,3 @@
   </a>
 </div>
 
-img.small {
-  width: 150px;    /* or whatever you like */
-  display: block;  /* to avoid empty space below the image */
-}
-
-div.wrapper {
-  display: inline-block;
-  border: 1px solid #000;
-}
