@@ -101,13 +101,13 @@
 
 <br/>  
 
-## 🏡 Working now
+## 🏡 Working Now
 
   <a href="https://github.com/0xN1ck/GetAllFilmsBot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xN1ck&repo=GetAllFilmsBot" />
   </a>
 
-## 😂 For fun
+## 😂 For Fun
 
 <div align="center">
   <img src="https://github.com/0xN1ck/0xN1ck/blob/output/github-contribution-grid-snake.gif"> 
@@ -125,7 +125,7 @@
 
 
 
-## 📩 Connect with me  
+## 📩 Connect With Me  
 
 <div id="badges" align="center">
   <a href="https://t.me/Nicknames">
