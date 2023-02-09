@@ -89,7 +89,7 @@
 ## 🧮 Github Stats  
 
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xN1ck&show_icons=true&theme=default#gh-light-mode-only">
   <img src="https://streak-stats.demolab.com/?user=0xN1ck">  
 </div>
