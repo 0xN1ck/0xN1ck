@@ -107,7 +107,7 @@
 
 ## 😂 For fun
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/0xN1ck/0xN1ck/blob/output/github-contribution-grid-snake.gif"> 
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
