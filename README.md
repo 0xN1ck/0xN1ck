@@ -27,7 +27,7 @@
 
 <div align="right">
   <p>
-    <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=light" alt="Readme    Quotes"></a>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://readme-root.vercel.app/api?type=horizontal&amp;theme=light" alt="Readme    Quotes"></a>
   </p>
 </div>
 
@@ -90,11 +90,11 @@
 
 
 <div class="container" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xN1ck&show_icons=true&theme=default#gh-light-mode-only" height="150">
+  <img src="https://readme-root.vercel.app/api?username=0xN1ck&show_icons=true&theme=default#gh-light-mode-only" height="150">
   <img src="https://streak-stats.demolab.com/?user=0xN1ck" height="150">  
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xN1ck" alt="Top Langs" align="center" height="315">
+  <img src="https://readme-root.vercel.app/api/top-langs/?username=0xN1ck" alt="Top Langs" align="center" height="315">
   <img src="https://metrics.lecoq.io/0xN1ck" align="center" height="315">    
 </div>
 
