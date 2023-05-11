@@ -27,7 +27,7 @@
 
 <div align="right">
   <p>
-    <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://readme-root.vercel.app/api?type=horizontal&amp;theme=light" alt="Readme    Quotes"></a>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=light" alt="Readme    Quotes"></a>
   </p>
 </div>
 
