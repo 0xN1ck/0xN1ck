@@ -104,7 +104,7 @@
 ## 🏡 Working Now
 
   <a href="https://github.com/0xN1ck/GetAllFilmsBot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xN1ck&repo=GetAllFilmsBot" />
+    <img align="center" src="https://readme-root.vercel.app/api/pin/?username=0xN1ck&repo=GetAllFilmsBot" />
   </a>
 
 ## 😂 For Fun
