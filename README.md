@@ -110,7 +110,12 @@
 ## 😂 For Fun
 
 <div align="center">
-  <img src="https://github.com/0xN1ck/0xN1ck/blob/output/github-contribution-grid-snake.gif"> 
+<!--   <img src="https://github.com/0xN1ck/0xN1ck/blob/output/github-contribution-grid-snake.gif">  -->
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+  </picture>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
