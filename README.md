@@ -90,11 +90,11 @@
 
 
 <div class="container" align="center">
-  <img src="https://readme-root.vercel.app/api?username=0xN1ck&show_icons=true&theme=default#gh-light-mode-only" height="150">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xN1ck&show_icons=true&theme=default#gh-light-mode-only" height="150">
   <img src="https://streak-stats.demolab.com/?user=0xN1ck" height="150">  
 </div>
 <div align="center">
-  <img src="https://readme-root.vercel.app/api/top-langs/?username=0xN1ck" alt="Top Langs" align="center" height="315">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xN1ck" alt="Top Langs" align="center" height="315">
   <img src="https://metrics.lecoq.io/0xN1ck" align="center" height="315">    
 </div>
 
@@ -103,8 +103,8 @@
 
 ## 🏡 Working Now
 
-  <a href="https://github.com/0xN1ck/GetAllFilmsBot">
-    <img align="center" src="https://readme-root.vercel.app/api/pin/?username=0xN1ck&repo=GetAllFilmsBot" />
+  <a href="https://github.com/0xN1ck/FinanceTrack">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0xN1ck&repo=FinanceTrack" />
   </a>
 
 ## 😂 For Fun
