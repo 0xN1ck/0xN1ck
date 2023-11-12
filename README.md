@@ -10,7 +10,7 @@
 </div>  
   
 
-- 🔭 I’m currently working on [GetAllFilmsBot](https://github.com/0xN1ck/GetAllFilmsBot)  
+- 🔭 I’m currently working on [FinanceTrack](https://github.com/0xN1ck/FinanceTrack)
   
 
 - 🌱 I'm currently learning <code>Aiogram</code>, <code>Django (DRF)</code> and <code>Vue.js</code>. In parallel I'm working on quoted tools for organizing information collection and implementing trading strategies with processing large data arrays using <code>Pandas</code> and <code>Numpy</code>.  
