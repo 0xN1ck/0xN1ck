@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on [FinanceTrack](https://github.com/0xN1ck/FinanceTrack)
   
 
-- 🌱 I'm currently learning <code>Aiogram</code>, <code>Django (DRF)</code>, <code>FastAPI</code> and <code>React</code>. In parallel I'm working on quoted tools for organizing information collection and implementing trading strategies with processing large data arrays using <code>Pandas</code> and <code>Numpy</code>.  
+- 🌱 I'm currently learning <code>Aiogram</code>, <code>Django (DRF)</code>, <code>Fast API</code> and <code>React</code>. In parallel I worked on quoted tools for organizing information collection and implementing trading strategies with processing large data arrays using <code>Pandas</code> and <code>Numpy</code>.  I am currently working with the backend of high-load applications <code>Django (DRF)</code>, <code>FastAPI</code> using <code>LangChain</code> and <code>Llama-Index</code> in combination with <code>Redis</code> and <code>Elasticsearch</code> for processing and analyzing text data.
   
 
 - ❓ Ask me about anything related to Django stack and related technologies  
