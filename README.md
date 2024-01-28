@@ -4,7 +4,7 @@
   
 
 <div align="left">
-  I'm <b>0xN1ck</b> 👋, a full-time <b>backend</b> <b>developer</b> 👨‍💻 working remotely since 2020 🚀 
+  I'm <b>0xN1ck</b> 👋, a full-time <b>backend</b> <b>developer</b> 👨‍💻 working since 2020 🚀 
   In 2018, I graduated from ITMO in St. Petersburg with a red diploma. Education:
   specialty "Computer security".
 </div>  
