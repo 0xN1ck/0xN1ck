@@ -10,13 +10,11 @@
 </div>  
   
 
-- 🔭 I’m currently working on [FinanceTrack](https://github.com/0xN1ck/FinanceTrack)
+<!-- - 🔭 I’m currently working on [FinanceTrack](https://github.com/0xN1ck/FinanceTrack) -->
+- 🌱 I'm currently learning <code>Golang</code>. In parallel I worked on quoted tools for organizing information collection and implementing trading strategies with processing large data arrays using <code>Pandas</code> and <code>Numpy</code>.  I am currently working with the backend of high-load applications <code>Django (DRF)</code>, <code>FastAPI</code> using <code>LangChain</code> and <code>Llama-Index</code> in combination with <code>Redis</code> and <code>Elasticsearch</code> for processing and analyzing text data.
   
 
-- 🌱 I'm currently learning <code>Aiogram</code>, <code>Django (DRF)</code>, <code>Fast API</code> and <code>React</code>. In parallel I worked on quoted tools for organizing information collection and implementing trading strategies with processing large data arrays using <code>Pandas</code> and <code>Numpy</code>.  I am currently working with the backend of high-load applications <code>Django (DRF)</code>, <code>FastAPI</code> using <code>LangChain</code> and <code>Llama-Index</code> in combination with <code>Redis</code> and <code>Elasticsearch</code> for processing and analyzing text data.
-  
-
-- ❓ Ask me about anything related to Django stack and related technologies  
+- ❓ Ask me about anything related to Django or FastAPI stack and related technologies  
   
   
 - ⚡ Fun fact: I work 24 hours a day with a cup of tea  
@@ -53,15 +51,14 @@
 
 ### Backend  
 <div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50"></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
+<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -74,7 +71,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>   
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>     
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>      
 </div>
 
 </td></tr></table>  
